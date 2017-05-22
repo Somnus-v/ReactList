@@ -33,6 +33,7 @@ export default class App extends React.Component{
             }
         })
     }
+    //哇
 
     //相当于一个载体，去子组件里面拿数据，之后再操作数据
     setpost(data){
